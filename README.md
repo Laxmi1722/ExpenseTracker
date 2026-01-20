@@ -53,4 +53,8 @@ The server has defaults, but you can override:
 - API: `http://localhost:4000`
 
 Snapshots of Project:-
+<img width="1385" height="747" alt="image" src="https://github.com/user-attachments/assets/a64c30bb-5b2c-4e79-871f-4afcb8a69992" />
+
+<img width="1478" height="892" alt="image" src="https://github.com/user-attachments/assets/e02ca436-c688-4960-b654-d8c54fa08140" />
+<img width="1432" height="320" alt="image" src="https://github.com/user-attachments/assets/ae4c75a9-fbce-4e36-b677-d8530c0c071c" />
 
