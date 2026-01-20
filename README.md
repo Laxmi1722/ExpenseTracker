@@ -9,7 +9,7 @@ This repo contains:
 
 Prereqs:
 
-- Node.js **20.x** recommended (your setup works with Node 20.11+ using Vite 5)
+- Node.js **20.x** recommended 
 - npm 9+
 
 
@@ -53,4 +53,4 @@ The server has defaults, but you can override:
 - API: `http://localhost:4000`
 
 Snapshots of Project:-
-image.png
+
