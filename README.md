@@ -1,0 +1,56 @@
+# Expense Tracking Platform (Budget + Real‑time Expenses + Alerts)
+
+This repo contains:
+
+- `server/`: Node.js + Express + SQLite + Socket.IO (real-time) + JWT auth
+- `client/`: React (Vite) dashboard with charts, budgets, categories, alerts
+
+## Quick start (dev)
+
+Prereqs:
+
+- Node.js **20.x** recommended (your setup works with Node 20.11+ using Vite 5)
+- npm 9+
+
+
+1) Install deps (root + server + client)
+
+
+npm install
+
+
+2) Start the API (Terminal 1)
+
+cd server
+npm install
+npm start
+
+
+3) Start the frontend (Terminal 2)
+
+
+cd client
+npm install
+npm run dev
+
+
+### Option B: One command (Windows)
+
+From the repo root:
+
+
+
+The server has defaults, but you can override:
+
+- `PORT` (default `4000`)
+- `CLIENT_ORIGIN` (default `http://localhost:5173`)
+- `JWT_SECRET` (default `dev_only_change_me`)
+- `DB_PATH` (default `./data/app.sqlite`)
+
+## URLs
+
+- Client: `http://localhost:5173`
+- API: `http://localhost:4000`
+
+Snapshots of Project:-
+image.png
